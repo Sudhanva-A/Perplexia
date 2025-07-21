@@ -1,0 +1,79 @@
+# Dependency directories
+node_modules/
+bower_components/
+jspm_packages/
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+out/
+*.min.js
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.sublime*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage and test outputs
+coverage/
+.nyc_output/
+.jest/
+junit.xml
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.local
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Debug
+.debugger/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+.pytest_cache/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target/
+.gradle/
+
+# Misc
+.tmp/
+temp/
+*.bak
+.venv

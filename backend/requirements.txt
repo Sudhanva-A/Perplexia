@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+asyncpg
+requests
+PyPDF2
+google-generativeai
+tavily-python
+python-dotenv
+pgvector
+python-multipart
+python-jose[cryptography]
+dotenv
