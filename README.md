@@ -50,7 +50,7 @@ Perplexia is an AI-powered RAG chat application that enhances conversations with
 
 # Clone the repository
 ```
-git clone https://github.com/Ad1tyaNarayana/perplexia.git
+git clone https://github.com/Sudhanva-A/perplexia.git
 cd perplexia/backend
 ```
 
